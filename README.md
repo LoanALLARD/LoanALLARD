@@ -18,7 +18,7 @@
 ## 🔥 Projets Open Source  
 | Projet | ⭐ Stars | 🍴 Forks | 🚀 Issues |  
 |--------|---------|---------|----------|  
-| [/](https://github.com/a24012091/#) | ![Stars](https://img.shields.io/github/stars/a24012091/#?style=social) | ![Forks](https://img.shields.io/github/forks/a24012091/#?style=social) | ![Issues](https://img.shields.io/github/issues/a24012091/game-hub) |
+| [Game-Hub](https://github.com/a24012091/game-hub) | ![Stars](https://img.shields.io/github/stars/a24012091/game-hub?style=social) | ![Forks](https://img.shields.io/github/forks/a24012091/game-hub?style=social) | ![Issues](https://img.shields.io/github/issues/a24012091/game-hub) |
 
 ## 📫 Où me trouver  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/loan-allard-070605348/)
