@@ -23,5 +23,6 @@
 ## 📫 Où me trouver  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/a24012091)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/oan-allard-070605348)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://loan-allard.fr)
 
 ---
