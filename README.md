@@ -5,13 +5,6 @@
 📍 Je suis basé à Aix-en-Provence, France  
 
 ## 🚀 Technologies utilisées  
-# 👋 Bonjour, je suis Loan  
-
-🎓 Étudiant en informatique et passionné de nouvelles technologies  
-
-📍 Je suis basé à Aix-en-Provence, France  
-
-## 🚀 Technologies utilisées  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
