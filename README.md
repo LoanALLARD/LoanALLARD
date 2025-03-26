@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Loan  
 
-<!--
-**a24012091/a24012091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en informatique et passionné de nouvelles technologies  
 
-Here are some ideas to get you started:
+📍 Je suis basé à Aix-en-Provence, France  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies utilisées  
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+
+## 📊 Statistiques GitHub  
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Loan&show_icons=true&theme=radical)  
+
+## 🔥 Projets Open Source  
+| Projet | ⭐ Stars | 🍴 Forks | 🚀 Issues |  
+|--------|---------|---------|----------|  
+| [Nom du Projet](https://github.com/Loan/NomDuProjet) | ![Stars](https://img.shields.io/github/stars/Loan/NomDuProjet?style=social) | ![Forks](https://img.shields.io/github/forks/Loan/NomDuProjet?style=social) | ![Issues](https://img.shields.io/github/issues/Loan/NomDuProjet) |
+
+## 📫 Où me trouver  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/Loan)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/VotreTwitter)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/VotreLinkedIn)  
+
+---
