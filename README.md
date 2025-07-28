@@ -18,7 +18,7 @@
 ## 🔥 Projets Open Source  
 | Projet | ⭐ Stars | 🍴 Forks | 🚀 Issues |  
 |--------|---------|---------|----------|  
-| [Bomberman](https://github.com/Kensufox/Bomberman) | ![Issues](https://img.shields.io/github/issues/Kensufox/Bomberman) | ![Contributors](https://img.shields.io/github/contributors/Kensufox/Bomberman) | ![Lang](https://img.shields.io/github/languages/top/Kensufox/Bomberman) |
+| [Bomberman](https://github.com/Kensufox/Bomberman) | ![Last Commit](https://img.shields.io/github/last-commit/Kensufox/Bomberman) | ![Lang](https://img.shields.io/github/languages/top/Kensufox/Bomberman) | ![Contributors](https://img.shields.io/github/contributors/Kensufox/Bomberman) |
 
 ## 📫 Où me trouver  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/loan-allard-070605348/)
