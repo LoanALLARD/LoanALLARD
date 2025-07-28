@@ -16,7 +16,7 @@
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=LoanALLARD&show_icons=true&theme=radical)  
 
 ## 🔥 Projets Open Source  
-| Projet | ⭐ Stars | 🍴 Forks | 🚀 Issues |  
+| Projet | 🕒 Dernier commit | 🧠 Langage principal | 👥 Contributeurs |
 |--------|---------|---------|----------|  
 | [Bomberman](https://github.com/Kensufox/Bomberman) | ![Last Commit](https://img.shields.io/github/last-commit/Kensufox/Bomberman) | ![Lang](https://img.shields.io/github/languages/top/Kensufox/Bomberman) | ![Contributors](https://img.shields.io/github/contributors/Kensufox/Bomberman) |
 
