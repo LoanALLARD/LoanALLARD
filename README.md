@@ -20,6 +20,7 @@
 | Projet | 🕒 Dernier commit | 🧠 Langage principal | 👥 Contributeurs |
 |--------|---------|---------|----------|  
 | [Bomberman](https://github.com/Kensufox/Bomberman) | ![Last Commit](https://img.shields.io/github/last-commit/Kensufox/Bomberman) | ![Lang](https://img.shields.io/github/languages/top/Kensufox/Bomberman) | ![Contributors](https://img.shields.io/github/contributors/Kensufox/Bomberman) |
+| [MMNotes](https://github.com/LoanALLARD/ProjetProgrammationWeb) | ![Last Commit](https://img.shields.io/github/last-commit/LoanALLARD/ProjetProgrammationWeb) | ![Lang](https://img.shields.io/github/languages/top/LoanALLARD/ProjetProgrammationWeb) | ![Contributors](https://img.shields.io/github/contributors/LoanALLARD/ProjetProgrammationWeb) |
 
 ## 📫 Où me trouver  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/loan-allard-070605348/)
