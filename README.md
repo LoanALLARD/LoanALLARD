@@ -1,8 +1,9 @@
 # 👋 Bonjour, je suis Loan  
 
 🎓 Étudiant en informatique et passionné de nouvelles technologies  
+**💻 Alternant Développeur Full Stack chez Techni-Park**
 
-📍 Je suis basé à Aix-en-Provence, France  
+📍 Je suis basé sur Aix-en-Provence, France  
 
 ## 🚀 Technologies utilisées  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
