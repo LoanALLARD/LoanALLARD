@@ -1,7 +1,7 @@
 # 👋 Bonjour, je suis Loan  
 
 🎓 Étudiant en informatique et passionné de nouvelles technologies  
-**💻 Alternant Développeur Full Stack chez Techni-Park**
+**💻 Alternant Développeur Full Stack chez Techni-Solaire**
 
 📍 Je suis basé sur Aix-en-Provence, France  
 
