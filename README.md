@@ -20,7 +20,7 @@
 ## 🔥 Projets Open Source  
 | Projet | 🕒 Dernier commit | 🧠 Langage principal | 👥 Contributeurs |
 |--------|---------|---------|----------|  
-| [Bomberman](https://github.com/Kensufox/Bomberman) | ![Last Commit](https://img.shields.io/github/last-commit/Kensufox/Bomberman) | ![Lang](https://img.shields.io/github/languages/top/Kensufox/Bomberman) | ![Contributors](https://img.shields.io/github/contributors/Kensufox/Bomberman) |
+| [I-AMU]([https://github.com/Kensufox/Bomberman](https://github.com/LoanALLARD/I-AMU_Web_APP)) | ![Last Commit](https://img.shields.io/github/last-commit/LoanALLARD/I-AMU_Web_APP) | ![Lang](https://img.shields.io/github/languages/top/LoanALLARD/I-AMU_Web_APP) | ![Contributors](https://img.shields.io/github/contributors/LoanALLARD/I-AMU_Web_APP) |
 | [MMNotes](https://github.com/LoanALLARD/ProjetProgrammationWeb) | ![Last Commit](https://img.shields.io/github/last-commit/LoanALLARD/ProjetProgrammationWeb) | ![Lang](https://img.shields.io/github/languages/top/LoanALLARD/ProjetProgrammationWeb) | ![Contributors](https://img.shields.io/github/contributors/LoanALLARD/ProjetProgrammationWeb) |
 | [Simulation envahissement de l'Armorique](https://github.com/julesfuselier/projet_qualite-dev_S3) | ![Last Commit](https://img.shields.io/github/last-commit/julesfuselier/projet_qualite-dev_S3) | ![Lang](https://img.shields.io/github/languages/top/julesfuselier/projet_qualite-dev_S3) | ![Contributors](https://img.shields.io/github/contributors/julesfuselier/projet_qualite-dev_S3) |
 
