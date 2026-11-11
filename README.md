@@ -5,30 +5,47 @@
 
 📍 Based in Aix-en-Provence, France
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-**Tools & OS**  
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" title="JavaScript"/>
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" title="TypeScript"/>
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" title="PHP"/>
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" title="Java"/>
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" title="C++"/>
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" title="HTML5"/>
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" title="CSS3"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frameworks</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" title="React"/>
+      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" title="Laravel"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" title="PostgreSQL"/>
+      <img src="https://skills.syvixor.com/api/icons?i=neon" width="48" height="48" alt="Neon" title="Neon"/>
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" title="MySQL"/>
+      <img src="https://skills.syvixor.com/api/icons?i=oracle" width="48" height="48" alt="Oracle SQL" title="Oracle SQL"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps &amp; Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" title="Docker"/>
+      <img src="https://skills.syvixor.com/api/icons?i=coolify" width="48" height="48" alt="Coolify" title="Coolify"/>
+      <img src="./assets/phpmyadmin.svg" width="48" height="48" alt="phpMyAdmin" title="phpMyAdmin"/>
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" title="Linux"/>
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoanALLARD&show_icons=true&theme=radical)
@@ -45,5 +62,6 @@
 ## 📫 Where to find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/loan-allard-070605348/)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://loan-allard.fr)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:contact@loan-allard.fr)
 
 ---
