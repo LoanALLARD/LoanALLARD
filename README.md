@@ -47,9 +47,6 @@
   </tr>
 </table>
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoanALLARD&show_icons=true&theme=radical)
-
 ## 🔥 Open Source Projects
 | Project | 🕒 Last commit | 🧠 Main language | 👥 Contributors |
 |---------|----------------|------------------|-----------------|
